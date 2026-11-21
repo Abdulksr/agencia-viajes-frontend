@@ -1,0 +1,211 @@
+{
+  "1": {
+    "vuelos": [
+      {
+        "id": "V-TOK-1",
+        "aerolinea": "LATAM / Japan Airlines",
+        "origen": "Santiago (SCL)",
+        "fechaSalida": "2026-12-10",
+        "fechaRegreso": "2026-12-22",
+        "precio": 1250000,
+        "disponible": true
+      },
+      {
+        "id": "V-TOK-2",
+        "aerolinea": "ANA All Nippon Airways",
+        "origen": "Santiago (SCL)",
+        "fechaSalida": "2026-12-15",
+        "fechaRegreso": "2026-12-28",
+        "precio": 1390000,
+        "disponible": true
+      },
+      {
+        "id": "V-TOK-3",
+        "aerolinea": "United Airlines",
+        "origen": "Santiago (SCL)",
+        "fechaSalida": "2026-12-18",
+        "fechaRegreso": "2027-01-02",
+        "precio": 1180000,
+        "disponible": false
+      }
+    ],
+    "hoteles": [
+      {
+        "id": "H-TOK-1",
+        "nombre": "Hotel Gracery Shinjuku",
+        "estrellas": 4,
+        "precioPorNoche": 165000,
+        "disponible": true,
+        "imagen": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "H-TOK-2",
+        "nombre": "Park Hyatt Tokyo",
+        "estrellas": 5,
+        "precioPorNoche": 390000,
+        "disponible": true,
+        "imagen": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=800&q=80"
+      }
+    ]
+  },
+  "2": {
+    "vuelos": [
+      {
+        "id": "V-PAR-1",
+        "aerolinea": "Air France",
+        "origen": "Santiago (SCL)",
+        "fechaSalida": "2026-12-05",
+        "fechaRegreso": "2026-12-16",
+        "precio": 980000,
+        "disponible": true
+      },
+      {
+        "id": "V-PAR-2",
+        "aerolinea": "Iberia",
+        "origen": "Santiago (SCL)",
+        "fechaSalida": "2026-12-12",
+        "fechaRegreso": "2026-12-23",
+        "precio": 910000,
+        "disponible": true
+      }
+    ],
+    "hoteles": [
+      {
+        "id": "H-PAR-1",
+        "nombre": "Hôtel Le Relais Saint-Germain",
+        "estrellas": 4,
+        "precioPorNoche": 210000,
+        "disponible": true,
+        "imagen": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "H-PAR-2",
+        "nombre": "Citadines Tour Eiffel Paris",
+        "estrellas": 3,
+        "precioPorNoche": 145000,
+        "disponible": false,
+        "imagen": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=800&q=80"
+      }
+    ]
+  },
+  "3": {
+    "vuelos": [
+      {
+        "id": "V-CUS-1",
+        "aerolinea": "LATAM Airlines",
+        "origen": "Santiago (SCL)",
+        "fechaSalida": "2026-12-08",
+        "fechaRegreso": "2026-12-14",
+        "precio": 265000,
+        "disponible": true
+      },
+      {
+        "id": "V-CUS-2",
+        "aerolinea": "SKY Airline",
+        "origen": "Santiago (SCL)",
+        "fechaSalida": "2026-12-11",
+        "fechaRegreso": "2026-12-17",
+        "precio": 229000,
+        "disponible": true
+      }
+    ],
+    "hoteles": [
+      {
+        "id": "H-CUS-1",
+        "nombre": "Palacio del Inka, a Luxury Collection",
+        "estrellas": 5,
+        "precioPorNoche": 240000,
+        "disponible": true,
+        "imagen": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "H-CUS-2",
+        "nombre": "Tierra Viva Cusco Centro",
+        "estrellas": 3,
+        "precioPorNoche": 78000,
+        "disponible": true,
+        "imagen": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80"
+      }
+    ]
+  },
+  "4": {
+    "vuelos": [
+      {
+        "id": "V-CUN-1",
+        "aerolinea": "Aeroméxico",
+        "origen": "Santiago (SCL)",
+        "fechaSalida": "2026-12-14",
+        "fechaRegreso": "2026-12-21",
+        "precio": 590000,
+        "disponible": true
+      },
+      {
+        "id": "V-CUN-2",
+        "aerolinea": "Copa Airlines",
+        "origen": "Santiago (SCL)",
+        "fechaSalida": "2026-12-19",
+        "fechaRegreso": "2026-12-27",
+        "precio": 635000,
+        "disponible": false
+      }
+    ],
+    "hoteles": [
+      {
+        "id": "H-CUN-1",
+        "nombre": "Hyatt Ziva Cancún All Inclusive",
+        "estrellas": 5,
+        "precioPorNoche": 320000,
+        "disponible": true,
+        "imagen": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "H-CUN-2",
+        "nombre": "Krystal Cancún Zona Hotelera",
+        "estrellas": 4,
+        "precioPorNoche": 135000,
+        "disponible": true,
+        "imagen": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=800&q=80"
+      }
+    ]
+  },
+  "5": {
+    "vuelos": [
+      {
+        "id": "V-PAT-1",
+        "aerolinea": "JetSMART",
+        "origen": "Santiago (SCL)",
+        "fechaSalida": "2026-12-06",
+        "fechaRegreso": "2026-12-12",
+        "precio": 145000,
+        "disponible": true
+      },
+      {
+        "id": "V-PAT-2",
+        "aerolinea": "LATAM Airlines",
+        "origen": "Santiago (SCL)",
+        "fechaSalida": "2026-12-09",
+        "fechaRegreso": "2026-12-15",
+        "precio": 189000,
+        "disponible": true
+      }
+    ],
+    "hoteles": [
+      {
+        "id": "H-PAT-1",
+        "nombre": "Hotel Las Torres Patagonia",
+        "estrellas": 5,
+        "precioPorNoche": 350000,
+        "disponible": true,
+        "imagen": "https://images.unsplash.com/photo-1506059612708-99d6c258160e?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "H-PAT-2",
+        "nombre": "Refugio y Lodge Paine Grande",
+        "estrellas": 3,
+        "precioPorNoche": 95000,
+        "disponible": true,
+        "imagen": "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=800&q=80"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "nombre": "Tokio",
+    "pais": "Japón",
+    "descripcion": "Metrópoli vibrante que combina templos milenarios, gastronomía de clase mundial y tecnología de vanguardia.",
+    "imagen": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=900&q=80",
+    "actividades": [
+      "Visitar el Templo Senso-ji en Asakusa",
+      "Cruzar Shibuya Crossing y recorrer Harajuku",
+      "Degustar sushi fresco en el mercado de Tsukiji"
+    ]
+  },
+  {
+    "id": "2",
+    "nombre": "París",
+    "pais": "Francia",
+    "descripcion": "La ciudad de la luz, famosa por su arquitectura histórica, museos icónicos y cafés junto al Sena.",
+    "imagen": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=900&q=80",
+    "actividades": [
+      "Subir a la Torre Eiffel al atardecer",
+      "Recorrer el Museo del Louvre",
+      "Paseo en barco por el río Sena"
+    ]
+  },
+  {
+    "id": "3",
+    "nombre": "Cusco",
+    "pais": "Perú",
+    "descripcion": "Antigua capital del Imperio Inca, puerta de entrada a Machu Picchu y maravillas andinas.",
+    "imagen": "https://images.unsplash.com/photo-1526392060635-9d6019884377?auto=format&fit=crop&w=900&q=80",
+    "actividades": [
+      "Excursión a Machu Picchu",
+      "Recorrer el Valle Sagrado de los Incas",
+      "Caminata a la Montaña de Siete Colores"
+    ]
+  },
+  {
+    "id": "4",
+    "nombre": "Cancún",
+    "pais": "México",
+    "descripcion": "Playas de arena blanca, aguas turquesa del Caribe y fascinante cultura maya.",
+    "imagen": "https://images.unsplash.com/photo-1552074284-5e88ef1aef18?auto=format&fit=crop&w=900&q=80",
+    "actividades": [
+      "Snorkel en Isla Mujeres y arrecifes",
+      "Excursión arqueológica a Chichén Itzá",
+      "Nadar en cenotes naturales"
+    ]
+  },
+  {
+    "id": "5",
+    "nombre": "Torres del Paine",
+    "pais": "Chile",
+    "descripcion": "Paraíso patagónico de glaciares, lagos turquesa y rutas de trekking reconocidas mundialmente.",
+    "imagen": "https://images.unsplash.com/photo-1518182170546-07661fd94144?auto=format&fit=crop&w=900&q=80",
+    "actividades": [
+      "Trekking a Base Las Torres",
+      "Navegación frente al Glaciar Grey",
+      "Avistamiento de fauna patagónica"
+    ]
+  }
+]
